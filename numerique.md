@@ -1,5 +1,5 @@
 # Le numérique
-## Attachez votre tuque
+## Attachez votre tuque!
 
 ### Actualités
 1. Quel terme, inventé par Shoshana Zuboff, désigne le modèle économique des GAFAM?
@@ -43,8 +43,7 @@
 35. La vente de quelle application a permis à Elon Musk de financer ses projets fous?
 36. À son lancement en 2004, quel nom portait “Faceook”?
 
-
-Avec les réponses vous devriez : 
+## Avec les réponses vous devriez : 
 * En apprendre plus
 * Rire (ou rire jaune)
 * Vous dire que c'était bien trop compliqué pour rien
