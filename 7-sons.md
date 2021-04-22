@@ -1,13 +1,13 @@
 ### Sons perdus (en _majorité_ d'antiquités de l'informatique) 
 1. [Son 1](./sons/1.mp3)
-2. -
-3. -
-4. -
-5. -
-6. -
-7. -
-8. -
-9. -
-10. -
-11. -
-12. -
+2. [Son 2](./sons/2.mp3)
+3. [Son 3](./sons/3.mp3)
+4. [Son 4](./sons/4.mp3)
+5. [Son 5](./sons/5.mp3)
+6. [Son 6](./sons/6.mp3)
+7. [Son 7](./sons/7.mp3)
+8. [Son 8](./sons/8.mp3)
+9. [Son 9](./sons/9.mp3)
+10. [Son 10](./sons/10.mp3)
+11. [Son 11](./sons/11.mp3)
+12. [Son 12](./sons/12.mp3)
