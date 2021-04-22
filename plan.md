@@ -1,4 +1,4 @@
-* [Meme](https://quiz.hub01.org/1-meme)
+* [MEMEs](https://quiz.hub01.org/1-meme)
 * [Acronymes](https://quiz.hub01.org/2-acronymes)
 * [Jeux](https://quiz.hub01.org/3-jeux)
 * [Actualites](https://quiz.hub01.org/4-actualites)

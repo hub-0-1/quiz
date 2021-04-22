@@ -1,5 +1,5 @@
-### Sons perdus (en _majorite_ d'antiquites de l'informatique) 
-1. -
+### Sons perdus (en _majorité_ d'antiquités de l'informatique) 
+1. [Son 1](./sons/1.mp3)
 2. -
 3. -
 4. -
