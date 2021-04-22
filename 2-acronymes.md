@@ -1,0 +1,15 @@
+### Acronymes
+Que signifient les acrononymes suivants :
+1. BRB
+2. G2G
+3. LMFAO
+4. LOL
+5. GG
+6. EZ
+7. GL
+8. HF
+9. WP
+10. AFK
+11. MVP
+12. POG
+13. IRL

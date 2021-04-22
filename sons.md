@@ -1,7 +1,4 @@
-# Le numérique
-## Attachez votre tuque
-
-### Sons
+### Sons perdus (en _majorite_ d'antiquites de l'informatique) 
 1. -
 2. -
 3. -
@@ -10,3 +7,7 @@
 6. -
 7. -
 8. -
+9. -
+10. -
+11. -
+12. -
