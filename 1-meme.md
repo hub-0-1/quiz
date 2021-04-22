@@ -1,5 +1,5 @@
 # Le numérique
-## Attachez votre tuque
+## Attachez votre tuque : Pop culture et gamers!
 
 ### MEMEs
 Quel est le nom des personnages faisant partie des memes suivants :
@@ -12,3 +12,22 @@ Quel est le nom des personnages faisant partie des memes suivants :
 7. ![Image7](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.kym-cdn.com%2Fentries%2Ficons%2Foriginal%2F000%2F004%2F856%2FScumbagSteve.jpg&f=1&nofb=1)
 8. ![Image8](https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fmakusha.ru%2F20121208%2F3%2FKak-narisovat-trolfeys-po-shagam--mem--trollface-meme--7.png&f=1&nofb=1)
 9. ![Image9](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.unilad.co.uk%2Fwp-content%2Fuploads%2F2018%2F07%2Fsuccess-kid-original.jpg&f=1&nofb=1)
+
+### Acronymes
+Que signifient les acrononymes suivants :
+1. BRB
+2. G2G
+3. LMFAO
+4. GG
+5. LOL
+
+### Jeux
+Les jeux suivants designents des jeux classiques. Quels sont-ils :
+1. COD4
+2. CS
+3. FF
+4. LOL
+5. WOW
+5. AOE
+6. SC
+
