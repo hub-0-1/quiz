@@ -10,4 +10,4 @@
 21. Quelle technologie permettra d’augmenter la vitesse de transmission de l’information après la fibre optique?
 22. Qu’elle est la différence entre un “bit” et un “octet (byte)”
 23. Que sont les métadonnées?
-24. Quel est le facteur le plus important dans la détermination de votre dans les résultats d’un moteur de recherche?                          
+24. Quel est le facteur le plus important dans la détermination de votre position dans les résultats d’un moteur de recherche?                          

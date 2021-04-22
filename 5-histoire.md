@@ -10,4 +10,4 @@
 33. Quelle est l’origine du mot “bogue”?
 34. Tim Berners Lee a fait une invention majeure dans l’histoire de l’informatique avec le lien ...
 35. La vente de quelle application a permis à Elon Musk de financer ses projets fous?
-36. À son lancement en 2004, quel nom portait “Faceook”?
+36. À son lancement en 2004, quel nom portait “Facebook”?

@@ -1,5 +1,5 @@
 ### Jeux
-Les jeux suivants designents des jeux classiques. Quels sont-ils :
+Les jeux suivants sont des classiques. Quels sont-ils :
 1. COD4 ![Call of duty 4](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.gamehackstudios.com%2Fwp-content%2Fuploads%2F2015%2F02%2FCall-of-Duty-4-Modern-Warfare-Crack-Download-PC-Full-Version-Free-14.jpg&f=1&nofb=1)
 2. CS ![Counter Strike](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.gameophobic.com%2Fwp-content%2Fuploads%2F2018%2F11%2Fcsgo3.jpg&f=1&nofb=1)
 3. FF (XIII) ![Final fantasy 13](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.ytimg.com%2Fvi%2FdM3ShfdRwtE%2Fmaxresdefault.jpg&f=1&nofb=1)
