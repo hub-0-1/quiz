@@ -13,3 +13,8 @@ Que signifient les acrononymes suivants :
 11. MVP
 12. POG
 13. IRL
+14. IMHO
+15. AFAIK
+16. YMMV
+17. F
+18. LGTM
