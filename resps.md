@@ -51,4 +51,14 @@
 
 ## Histoire
 1. Pascaline
-2. 
+2. 9 jours
+3. Noam Chomsky
+4. Toutes les réponses sont bonnes
+5. Test qui permet d'évaluer si l'intelligence artificielle est aussi bonne que l'intelligence humaine
+6. George Boole
+7. La densité (la vitesse) des processeurs va doubler tous les deux ans
+8. Ça prend une bière pour être au summun de la programmation
+9. Bug (insecte)
+10. Hypertexte
+11. Paypal
+12. The Facebook
