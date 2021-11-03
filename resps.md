@@ -80,3 +80,17 @@
 14. Donkey Kong
 15. Super Mario Bro's
 16. Need for speed
+
+## Connaissances générales
+1. Neuronnes
+2. ADN
+3. 24h * 1 Gb/s : 86400 Gb. : 85To
+4. Recette vs inverse de l'exponentielle
+5. Domaine name server
+6. Virtual private server
+7. Zetta (peta, exa, zetta, yota) : https://bernardmarr.com/how-much-data-is-there-in-the-world/
+8. Contenu, style, animations
+9. Aucune
+10. 0/1 : mot de 8
+11. Données qui décrivent des données
+12. Backlinks
