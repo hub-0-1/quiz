@@ -94,3 +94,13 @@
 10. 0/1 : mot de 8
 11. Données qui décrivent des données
 12. Backlinks
+
+## Sons
+
+## Etymologie
+1. 0 Killed
+2. Venez m'aidez
+3. Educare, educere : gaver, exprimer
+4. Jules César, Auguste
+5. Enfant en basque
+6. Backhouse
