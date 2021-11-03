@@ -11,3 +11,5 @@
 10. Quel loi permet au gouvernement des États-Unis d’accéder à sa guise à toutes les informations stockées sur les serveurs sur son territoire?
 11. Quelle nouvelle technologie permettra à n’importe quel hacker de déchiffrer vos transactions bancaires d’ici une dizaine d’années?
 12. Quel sera l’effet de la “5G” sur le débit et la latence?
+13. Quel est le nouveau nom de Facebook?
+14. Quel est le nom de la compagnie mère de Google?
